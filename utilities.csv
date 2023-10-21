@@ -1,0 +1,8 @@
+Facility Name,Bill number,Quantity (£),Location,Country,Time Period,Supplier,Tariff Name,Price per kWh
+HQ,hq-001,1000,Headquarters,United Kingdom,Oct-1 - Oct-31 2021,EnergyCorp,Renewable 100,25p
+HQ,hq-002,5000,Headquarters,United Kingdom,Nov-1 - Nov-30 2021,EnergyCorp,Renewable 100,25p
+HQ,hq-003,2500,Headquatrers,United Kingdom,Dec-01 - Dec-31 2021,EnergyCorp,Renewable 100 ,25p
+Office Scotland,1235,900,Glasgow,GB,Nov-1 - Nov-30 2021,EnergyCorp,coal-only,16p
+Office Scotland,0815,1000,Glasgow,GB,Dec-1 - Dec-31 2021,PowerSupply,PowerSupply Budget,18p
+Office Scotland,0815-re,-200,Glasgow,GB,Dec-29 - Dec-29 2021,PowerSupply,PowerSupply Budget,18p
+Office Spain,December,1000 GBP,Spain Office,ESP,Nov-1 - Nov-30 2021,EnergyCorp,coal-only,16p
